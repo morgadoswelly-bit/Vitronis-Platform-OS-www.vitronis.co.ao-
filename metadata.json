@@ -1,0 +1,6 @@
+{
+  "name": "Vitronis Platform OS (www.vitronis.co.ao)",
+  "description": "Sistema Operacional do Ecossistema Vitronis (www.vitronis.co.ao): Provedor de Identidade Central (accounts.vitronis.co.ao), Console Admin (console.vitronis.co.ao), Status e Reverse Proxy Gateway para Render.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
